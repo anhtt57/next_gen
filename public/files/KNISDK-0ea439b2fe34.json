@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "knisdk-188507",
+  "private_key_id": "0ea439b2fe34a69c0a13d5fb8e73a7c9d919de4a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQxO/cHrOlZd42\n5nNe+SyOR3iS9nxK4onqOVpE7uI6E6tenrXmGotRoZmIC9DwmRE5VG9f6iCJ5KKT\nCqQ7sde0Puly6I3z3fGmqXQlHEt1rmV5SZqzpJANxAyQfkZaisoe4HSgRVuRR3zj\nQnUAa7tu+Trw/2J0yCYbFJA08NHJkQswHoS3VqlUbAKE0fHgQ7eVZNULj8yrbnUZ\n9C9PWWehhFoS9x8XE4gOLUaT/I+NU/Hp7VSnqCqURkp6O9qaiJQcqc/6DGN1aCHc\nqUGZPI+Q3+dtY+3IcmsIUH0Tgd/tsuLhklU6qWc/oELgC0U+XA1GdUm604uBhMDI\nhOr7qqZbAgMBAAECggEAKPWagbtcT6UO1gKcvBNzFG8dTughNqf/mv6poUClDfPx\n+Vx2H7ExiFCGSNTYp3vAj1jriQvsWmGLLAI4eqXHxktZjfvmbeQrlyFD8kv82hff\nPM6eFYTB5pGCTY8YyobUZP5wo0k4T+aQsB3Hys9YNMudLs9MR9FE+KcuK9TbtAnw\nLy1CLF9gt6kSz9GFprzFPN8Cn8+nY08hRb+xn7Co7nDS+NU0l3ubPLNQEDC1UTsi\nFZJS7TSna0ZmZ3uUlLfHnpk33x0W4VeKE5+v1V0wIUHaMKiohmIbpTq7fQyjc5Eo\nrfKd1j1ujbIbrdLDBY0d9ma5HRQ+MjloCje4/OjigQKBgQDyy6YnnUd8Fls7pAh4\nPqfCPFNukc63/QPTxcaHOj/r6tDmA5UGaIw4gmZ/TfEcJXyMu2JJ0+Dovc9F2hST\nN2KUow+Ko3wvmJh5gBo0ztvTvHUb5nVTtv5W0fbxNfG3udyhAtdCKOtO35P7MK4m\nEdg9LUCwcVQAbU15YubHHlcvoQKBgQDcH424S8NWrId4N3eyP+IzWqfjc+9d+E+z\nWX6zrqNdtSckEcTSEWWHhrVcr8AVCNKrm8zGRG+ud4nmIEsJGoKmv94S/+WTa8FL\nXBXt/TUFm0bE8lks3Lg/3iRVRvaF7wQ+dp3Z6UK36OUHxqZA5RNpdAUu7teE5ctS\nojAiayBEewKBgQDCWz9gyshkjsjtjzuwdgd4ty3afyHJquKbbeCkc36j7c7Xsdpj\nzOEig1BlbBEshN2VEpN1ogSSiw8XTaHWzyk87uMMCh7pQvAbou5Xg5f5gQ0GDo+x\nOfWTrnRNVu9uMXxp74o9TeA/vT4KgEeH9hTxs/3qwG2MAfNYzlEK6EDGwQKBgGim\n/8PdEVPF1upKxLeUM8DimutClU0B3zKPm/NlVfoZRDCb2g1dg/25B8S3MgVOGorI\nGcUxiD9USdWFCOedGPyaP8ScsNMz6cQgVbS+K1UtC6pa5ha0IU0MGg4JHO90QXpI\n/qc5hSTWrvzRbv1va5k5NbWojAJ9FfuFbIkQkVi9AoGBALaZru898dgrBBW33hiq\nlbHjD7EYmQgppnPiFSCTVNBlOayXBh+o0FeZAdFIcBi5oI/9WpoUf4iLrP9CRD9s\nDu5/Dh8xC17HNEZmr1kahu4dvO9Rqzhoqhs+3FL8mf5oXI+pFGnkxNMGq3JDhmir\nbP9/NlmvPb8Kn5KqrcU54/FO\n-----END PRIVATE KEY-----\n",
+  "client_email": "kni-test-service-account@knisdk-188507.iam.gserviceaccount.com",
+  "client_id": "114483721481699968146",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kni-test-service-account%40knisdk-188507.iam.gserviceaccount.com"
+}
